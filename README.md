@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-Springboot-brightgreen"
+  <img src="https://img.shields.io/badge/-Spring-brightgreen"
   
 </p>
 
